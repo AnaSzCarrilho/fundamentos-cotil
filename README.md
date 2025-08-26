@@ -13,3 +13,15 @@ Meu nome é **Ana Júlia**, e estou atualmente no *primeiro ano do ensino médio
   -Sei desenhar
   -Sou boa em achar coisas perdidas
   -Ouço bastante musica no dia a dia
+
+## Meu primeiro Programa
+
+Bom, o código abaixo é um clássico "Olá, Mundo!" na linguagem C, usando a formatação de código inline (com crase `) para mencionar a função printf().
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Olá, Mundo!\n");
+    return 0;
+}
